@@ -56,29 +56,21 @@ Customers with **month-to-month contracts** show significantly higher churn rate
 
 ### 🔹 Churn by Tenure
 Customers who have recently joined (short tenure) are more likely to churn, while long-term customers tend to stay.  
-![Churn by Tenure](Screenshot%202025-11-05%20085450.png)
+![Churn by Tenure] <img width="1803" height="568" alt="Screenshot 2025-11-05 085450" src="https://github.com/user-attachments/assets/1e99c4f0-e351-4c5f-8d5e-913296e9ea35" />
+
 
 ---
 
 ### 🔹 Churn by Payment Method
 Electronic check users show the highest churn, suggesting possible dissatisfaction with billing or service.  
-![Churn by Payment Method](Screenshot%202025-11-05%20085636.png)
+![Churn by Payment Method]( <img width="867" height="708" alt="Screenshot 2025-11-05 085636" src="https://github.com/user-attachments/assets/59fe017d-22f3-44e6-8dbb-8bd88dcd8b58" />
+
 
 ---
 
 ### 🔹 Correlation Heatmap
 Displays relationships between numerical variables such as `MonthlyCharges`, `Tenure`, and `TotalCharges`.
-![Correlation Heatmap](<img width="867" height="708" alt="Screenshot 2025-11-05 085636" src="https://github.com/user-attachments/assets/affe3832-e903-4fb5-90fe-4e46e0baf802" />)
-
----
-
-## 📊 Analyst Dashboard (Minimal White Theme)
-A clean and interactive **Excel/Power BI dashboard** summarizing the above insights:  
-- **KPIs:** Total Customers, Active Customers, Churn Rate  
-- **Filters:** Contract Type, Payment Method  
-- **Charts:** Churn % by Contract, Tenure, and Monthly Charges  
-
-![Analyst Dashboard](./images/dashboard.png)
+![Correlation Heatmap]<img width="2705" height="1753" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/ab3f7c7c-ec41-44ca-a7a1-551cd1df41a0" />
 
 ---
 
