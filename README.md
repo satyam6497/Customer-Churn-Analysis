@@ -49,19 +49,19 @@ Key columns include:
 
 ### 🔹 Churn by Contract Type
 Customers with **month-to-month contracts** show significantly higher churn rates compared to long-term contracts.  
-![Churn by Contract Type](https://github.com/user-attachments/assets/44cddc6f-1060-4f12-bf65-1e79554e8089)
+![Churn by Contract Type](Screenshot%202025-11-05%20085512.png)
 
 ---
 
 ### 🔹 Churn by Tenure
 Customers who have recently joined (short tenure) are more likely to churn, while long-term customers tend to stay.  
-![Churn by Tenure](https://github.com/user-attachments/assets/77938750-bcb2-47b6-9c96-239753fa90c4)
+![Churn by Tenure](Screenshot%202025-11-05%20085450.png)
 
 ---
 
 ### 🔹 Churn by Payment Method
 Electronic check users show the highest churn, suggesting possible dissatisfaction with billing or service.  
-![Churn by Payment Method](./Screenshot%202025-11-05%20085636.png)
+![Churn by Payment Method](Screenshot%202025-11-05%20085636.png)
 
 ---
 
