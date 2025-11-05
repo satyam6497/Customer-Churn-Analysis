@@ -49,14 +49,13 @@ Key columns include:
 
 ### 🔹 Churn by Contract Type
 Customers with **month-to-month contracts** show significantly higher churn rates compared to long-term contracts.  
-![Churn by Contract Type](<img width="774" height="619" alt="Screenshot 2025-11-05 085512" src="https://github.com/user-attachments/assets/44cddc6f-1060-4f12-bf65-1e79554e8089" />)
+![Churn by Contract Type](https://github.com/user-attachments/assets/44cddc6f-1060-4f12-bf65-1e79554e8089)
 
 ---
 
 ### 🔹 Churn by Tenure
 Customers who have recently joined (short tenure) are more likely to churn, while long-term customers tend to stay.  
-![Churn by Tenure](<img width="1803" height="568" alt="Screenshot 2025-11-05 085450" src="https://github.com/user-attachments/assets/77938750-bcb2-47b6-9c96-239753fa90c4" />)
-
+![Churn by Tenure](https://github.com/user-attachments/assets/77938750-bcb2-47b6-9c96-239753fa90c4)
 
 ---
 
@@ -101,7 +100,8 @@ A clean and interactive **Excel/Power BI dashboard** summarizing the above insig
 ## 👨‍💻 Author
 **Satyam Mishra**  
 Data Analyst | Business Intelligence Enthusiast  
-📧 satyam_mishra.dec17@gmail.com 
-🔗 [LinkedIn]([https://www.linkedin.com/in/satyam-mishra-dec17/]) | [GitHub]([https://github.com/satyam6497])
+📧*[satyam_mishra.dec17@gmail.com ]*
+🔗[LinkedIn](https://www.linkedin.com/in/satyam-mishra-dec17/) | [GitHub](https://github.com/satyam6497/)
+
 
 
