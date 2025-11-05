@@ -49,7 +49,8 @@ Key columns include:
 
 ### 🔹 Churn by Contract Type
 Customers with **month-to-month contracts** show significantly higher churn rates compared to long-term contracts.  
-![Churn by Contract Type](Screenshot%202025-11-05%20085512.png)
+![Churn by Contract Type] <img width="774" height="619" alt="Screenshot 2025-11-05 085512" src="https://github.com/user-attachments/assets/e7ff2076-7a39-4ea6-a482-94ba1556227b" />
+
 
 ---
 
