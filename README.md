@@ -49,13 +49,14 @@ Key columns include:
 
 ### 🔹 Churn by Contract Type
 Customers with **month-to-month contracts** show significantly higher churn rates compared to long-term contracts.  
-![Churn by Contract Type](./Screenshot%202025-11-05%20085512.png)
+![Churn by Contract Type](<img width="774" height="619" alt="Screenshot 2025-11-05 085512" src="https://github.com/user-attachments/assets/44cddc6f-1060-4f12-bf65-1e79554e8089" />)
 
 ---
 
 ### 🔹 Churn by Tenure
 Customers who have recently joined (short tenure) are more likely to churn, while long-term customers tend to stay.  
-![Churn by Tenure](./Screenshot%202025-11-05%20085450.png)
+![Churn by Tenure](<img width="1803" height="568" alt="Screenshot 2025-11-05 085450" src="https://github.com/user-attachments/assets/77938750-bcb2-47b6-9c96-239753fa90c4" />)
+
 
 ---
 
@@ -67,7 +68,7 @@ Electronic check users show the highest churn, suggesting possible dissatisfacti
 
 ### 🔹 Correlation Heatmap
 Displays relationships between numerical variables such as `MonthlyCharges`, `Tenure`, and `TotalCharges`.
-![Correlation Heatmap](./images/correlation_heatmap.png)
+![Correlation Heatmap](<img width="867" height="708" alt="Screenshot 2025-11-05 085636" src="https://github.com/user-attachments/assets/affe3832-e903-4fb5-90fe-4e46e0baf802" />)
 
 ---
 
@@ -100,13 +101,7 @@ A clean and interactive **Excel/Power BI dashboard** summarizing the above insig
 ## 👨‍💻 Author
 **Satyam Mishra**  
 Data Analyst | Business Intelligence Enthusiast  
-📧 *[Your Email Here]*  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 satyam_mishra.dec17@gmail.com 
+🔗 [LinkedIn]([https://www.linkedin.com/in/satyam-mishra-dec17/]) | [GitHub]([https://github.com/satyam6497])
 
----
-
-## ⭐ How to Use
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/Telecom-Customer-Churn-Analysis.git
 
